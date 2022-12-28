@@ -29,9 +29,7 @@ function generateComputerChoice() {
 }
 
 function getResult() {
-  if (computerChoice === userChoice) {
-    result = 'Its a draw!'
-  }
+ 
   if (computerChoice === 'Rock' && userChoice === "Paper") {
     result = 'You Win!'
   }
@@ -49,6 +47,9 @@ function getResult() {
   }
   if (computerChoice === 'Scissors' && userChoice === "Paper") {
     result = 'You Lose!'
+     if (computerChoice === userChoice) {
+    result = 'Its a draw!'
+  }
   }
   resultDisplay.innerHTML = result
 }
