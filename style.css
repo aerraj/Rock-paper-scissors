@@ -1,0 +1,30 @@
+#welcome {
+  font-family: "Chivo Mono", monospace;
+  text-align: center;
+  font-size: large;
+  background-color: black;
+  color: #fff;
+  padding: 2%;
+}
+
+#heads {
+  font-family: "Chivo Mono", monospace;
+  text-align: center;
+  padding: 5% 10%;
+}
+#btns {
+  text-align: center;
+  padding: 4% 1%;
+  background-color: powderblue;
+  font-family: "Oswald", sans-serif;
+}
+
+.buttons {
+  margin: 2rem;
+}
+#footer {
+  text-align: center;
+  background-color: #fff;
+  padding-top: 1%;
+  font-family: "Poppins", sans-serif;
+}
