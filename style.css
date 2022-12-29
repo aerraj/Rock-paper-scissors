@@ -31,14 +31,19 @@
 @media (min-height: 700px) {
   #welcome {
     padding: 10%;
+    font-size: 3.5rem;
   }
   #heads {
     padding: 35%;
+    font-size: 4.5rem;
   }
   #buttons {
     padding: 10%;
+    font-size: 2rem;
   }
   #footer {
     padding: 4%;
+    font-size: 1.5rem;
   }
 }
+
