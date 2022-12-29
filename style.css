@@ -31,15 +31,15 @@
 @media (min-height: 700px) {
   #welcome {
     padding: 10%;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
   #heads {
     padding: 35%;
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
   #buttons {
-    padding: 10%;
-    font-size: 2rem;
+    padding: 25%;
+    font-size: 2.5rem;
   }
   #footer {
     padding: 4%;
