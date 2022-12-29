@@ -28,9 +28,17 @@
   padding-top: 1%;
   font-family: "Poppins", sans-serif;
 }
-@media(min-height:700px){
-  #heads{
+@media (min-height: 700px) {
+  #welcome {
+    padding: 10%;
+  }
+  #heads {
     padding: 35%;
   }
-  
+  #buttons {
+    padding: 10%;
+  }
+  #footer {
+    padding: 4%;
+  }
 }
